@@ -500,6 +500,13 @@ O trabalho foi organizado para ser realizado durante as quatro horas do Hackatho
 11. Versionamento e publicação;
 12. Documentação.
 
+## Aplicação publicada
+
+A aplicação AcademiX está disponível online pelo link:
+
+**https://academyx-green.vercel.app/**
+
+
 ### Gestão do projeto
 
 Foi utilizado o GitHub Projects para organizar as atividades em um quadro Kanban com 50 cartões, numerados de 01 a 50 e organizados por grupo e prioridade.
